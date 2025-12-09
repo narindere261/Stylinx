@@ -103,6 +103,7 @@ const styles = {
     paddingVertical: responsive.verticalScale(18),
     alignItems: 'center', 
     marginTop: responsive.getResponsiveValue(25, { tablet: 30 }),
+    marginBottom: responsive.getResponsiveValue(25, { tablet: 30 }),
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.1,
